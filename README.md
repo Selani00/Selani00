@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selani00&label=Profile%20views&color=0e75b6&style=flat" alt="selani00" /> </p>
+
 
 - 🌱 I’m currently learning **flutter**
 
