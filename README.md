@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Selani Didulani</h1>
-<h3 align="center">BSc(Hons) Computer Engineering (UG) - Faculty of Engineering - University of Ruhuna Sri Lanka</h3>
+<h3 align="center">BSc(Hons) Computer Engineering (UG) <br/>Faculty of Engineering <br/>University of Ruhuna Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selani00&label=Profile%20views&color=0e75b6&style=flat" alt="selani00" /> </p>
 
