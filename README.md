@@ -11,9 +11,9 @@
 
 
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **javaScript**
 
-- 💬 Ask me about **react,c++,flutter**
+- 💬 Ask me about **reactJs,c++**
 
 - 📫 How to reach me **pkselani00@gmail.com**
 
