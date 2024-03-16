@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **javaScript**
+- 🌱 I’m currently learning **javaScript, AWS**
 
 - 💬 Ask me about **reactJs,c++**
 
